@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZOXRHXWzfc7j9vyRH6VTGpSs696WoGEEuRubFzvQWzhNuVW2DwyEjpa1b9h9JMUe205bTBBX80Q8gDTjLsKgg==",
+  "dgSpecHash": "qb0tiwkQhkOLcYtaRCccDmpwHgYF5Kwa1nrdqgHkSbLefQXnB3hf8NUxhynfsDdA4ms+/mjudYp3w/hrTx7QCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

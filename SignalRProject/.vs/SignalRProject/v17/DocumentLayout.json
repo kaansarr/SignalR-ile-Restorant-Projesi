@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\desktop\\signalr-ile-restorant-projesi-main\\signalr-ile-restorant-projesi-main\\signalrproject\\signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\wwwroot\\feane-1.0.0\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\wwwroot\\feane-1.0.0\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\desktop\\signalr-ile-restorant-projesi-main\\signalr-ile-restorant-projesi-main\\signalrproject\\signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\desktop\\signalr-ile-restorant-projesi-main\\signalr-ile-restorant-projesi-main\\signalrproject\\signalrwebui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\desktop\\signalr-ile-restorant-projesi-main\\signalr-ile-restorant-projesi-main\\signalrproject\\signalrwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,10 +35,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "menu.html",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\wwwroot\\feane-1.0.0\\menu.html",
+              "RelativeDocumentMoniker": "SignalRWebUI\\wwwroot\\feane-1.0.0\\menu.html",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\wwwroot\\feane-1.0.0\\menu.html",
+              "RelativeToolTip": "SignalRWebUI\\wwwroot\\feane-1.0.0\\menu.html",
+              "ViewState": "AQIAAKkDAAAAAAAAAAAlwL4DAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T07:32:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\Default\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -43,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
               "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\DefaultController.cs",
               "RelativeToolTip": "SignalRWebUI\\Controllers\\DefaultController.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAB0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "SignalRWebUI\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Program.cs",
               "RelativeDocumentMoniker": "SignalRWebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Program.cs",
               "RelativeToolTip": "SignalRWebUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

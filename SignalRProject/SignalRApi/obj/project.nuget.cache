@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TmutNhr0Cr6c8SxTRTMTXjGw8b2adCMllfP02Lxe4y/lIzBRnLMQb6PSKqtFzG40QJ06jV0Vh3d+xgmmUybpQ==",
+  "dgSpecHash": "iz+AZAStd5MWHeUCcZXB6zTgP3EMwvkfMpbDl/UDFZVSrbdnDo4wL4yV5rK+VeCo2UUHcypriYQ6FySGdNT1bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

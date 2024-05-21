@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {}
+    "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+    "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "projectName": "SignalR.EntityLayer",
-        "projectPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

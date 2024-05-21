@@ -12627,11 +12627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+      "projectUniqueName": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
       "projectName": "SignalRApi",
-      "projectPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+      "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
       "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRApi\\obj\\",
+      "outputPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12648,11 +12648,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj"
+            "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj"
             },
-            "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj"
+            "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj"
             }
           }
         }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SignalR.BusinessLayer
-build_property.ProjectDir = C:\Users\Kaan\Desktop\SignalR-ile-Restorant-Projesi-main\SignalR-ile-Restorant-Projesi-main\SignalRProject\SignalR.BusinessLayer\
+build_property.ProjectDir = C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.BusinessLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Df0FSKFAsH71EElnHLUH0vykuEb5IICA69hcpisYI1cHmfEWbwqfvSFFPvPHD8/PrD0QpWkB2Gyc12VAmsGn1g==",
+  "dgSpecHash": "u0NsDzTUoUb0qHJ5gWG7Q3xWo7Tj/F3KjfwJAbHhPXd+5KLtS4JVE1/Hpn52cCkQ/wsCquiRONSJGRaQA9405A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

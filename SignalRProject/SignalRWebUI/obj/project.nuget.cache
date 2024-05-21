@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0L5DjucaitDaYSwlgg8G1OL5Vxdoca875CRsoUN1fy5gi+hEL+r3loCNCtGiRGu/4uBdn9psH1Pzp2mTYONQxw==",
+  "dgSpecHash": "QV5VTx8pP6SNgGelzHu6SUaUBf+YyJt5ijUfCLJ8HTW4RhBavNatgkcmsteItotTqN40N/8mZwunkD4xvSgYgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaan\\Desktop\\SignalR-ile-Restorant-Projesi-main\\SignalR-ile-Restorant-Projesi-main\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
+  "projectFilePath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Kaan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
