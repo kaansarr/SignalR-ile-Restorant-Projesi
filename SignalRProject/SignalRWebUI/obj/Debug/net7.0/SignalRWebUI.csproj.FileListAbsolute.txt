@@ -792,3 +792,7 @@ C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restora
 C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\obj\Debug\net7.0\SignalRWebUI.pdb
 C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\obj\Debug\net7.0\SignalRWebUI.genruntimeconfig.cache
 C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\obj\Debug\net7.0\ref\SignalRWebUI.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\bin\Debug\net7.0\MailKit.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalRWebUI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
