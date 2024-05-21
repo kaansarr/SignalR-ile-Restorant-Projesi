@@ -21,3 +21,15 @@ C:\Users\Kaan\Desktop\SignalR-ile-Restorant-Projesi-main\SignalR-ile-Restorant-P
 C:\Users\Kaan\Desktop\SignalR-ile-Restorant-Projesi-main\SignalR-ile-Restorant-Projesi-main\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\refint\SignalR.DtoLayer.dll
 C:\Users\Kaan\Desktop\SignalR-ile-Restorant-Projesi-main\SignalR-ile-Restorant-Projesi-main\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.pdb
 C:\Users\Kaan\Desktop\SignalR-ile-Restorant-Projesi-main\SignalR-ile-Restorant-Projesi-main\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\ref\SignalR.DtoLayer.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\bin\Debug\net7.0\SignalR.DtoLayer.deps.json
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\bin\Debug\net7.0\SignalR.DtoLayer.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\bin\Debug\net7.0\SignalR.DtoLayer.pdb
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.AssemblyInfo.cs
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.sourcelink.json
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\refint\SignalR.DtoLayer.dll
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\SignalR.DtoLayer.pdb
+C:\Users\Kaan\Documents\GitHub\SignalR-ile-Restorant-Projesi\SignalR-ile-Restorant-Projesi\SignalRProject\SignalR.DtoLayer\obj\Debug\net7.0\ref\SignalR.DtoLayer.dll
