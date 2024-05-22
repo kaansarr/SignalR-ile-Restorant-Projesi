@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\views\\progressbars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\progressbars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\kaan\\documents\\github\\signalr-ile-restorant-projesi\\signalr-ile-restorant-projesi\\signalrproject\\signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE35CF17-E2E0-4254-B666-354FAD82F5F7}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T08:37:18.677Z",
+              "WhenOpened": "2024-05-22T08:56:39.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "SignalRWebUI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:37:13.751Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\ProgressBars\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\ProgressBars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Views\\ProgressBars\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\ProgressBars\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:49:38.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "SignalRWebUI\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA4wCYAAAAtAAAA",
+              "Title": "ProgressBarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\SignalR-ile-Restorant-Projesi\\SignalR-ile-Restorant-Projesi\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:34:45.607Z",
+              "WhenOpened": "2024-05-22T08:49:33.296Z",
               "EditorCaption": ""
             }
           ]
