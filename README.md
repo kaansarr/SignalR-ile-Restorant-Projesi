@@ -14,4 +14,4 @@ Proje üzerinde kullanılan teknolojiler
 📌 Html-Css-Bootstra 
 📌 Javascript - Ajax
 📌 Asp.Net Core 6.0
-📌 Asp.Net Core Api
+📌 Asp.Net Core Api 
