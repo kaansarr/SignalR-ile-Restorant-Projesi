@@ -32,16 +32,16 @@
 				$("#notilist").empty();
 				for (var i = 0; i < value.length; i++) {
 					$("#notilist").append(`<a href="#">
-				    <div class="${value[i].type}"><i class="${value[i].icon}"></i></div>
-					<div class="notif-content">
-					 <span class="block">
-					 ${value[i].description}
-					 </span>
-					<span class="time">${value[i].date}</span>
+							<div class="${value[i].type}"><i class="${value[i].icon}"></i></div>
+							<div class="notif-content">
+							 <span class="block">
+							 ${value[i].description}
+							 </span>
+							<span class="time">${value[i].date}</span>
 
-					</div>
-					</a>
-				      `)
+							</div>
+							</a>
+							  `)
 				};
 			});
 

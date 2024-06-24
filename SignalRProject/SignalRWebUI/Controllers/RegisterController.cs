@@ -6,6 +6,8 @@ using SignalRWebUI.Dtos.IdentityDtos;
 
 namespace SignalRWebUI.Controllers
 {
+
+    [AllowAnonymous]
     public class RegisterController : Controller
     {
         private UserManager<AppUser> _userManager;
@@ -20,7 +22,7 @@ namespace SignalRWebUI.Controllers
             return View();
         }
 
-        [HttpPost,AllowAnonymous]
+        [HttpPost]
         public async Task <IActionResult> Index(RegisterDto registerDto)
         {
             var appUser = new AppUser()
