@@ -1,4 +1,4 @@
-#Bu proje, restoranların işleyişini modernleştirmek ve kullanıcı deneyimini optimize etmek için geliştirilmiş bir uygulamadır.
+# Bu proje, restoranların işleyişini modernleştirmek ve kullanıcı deneyimini optimize etmek için geliştirilmiş bir uygulamadır.
 
 Kullanıcılar, masalarındaki QR kodları kullanarak yemek siparişi verebilir ve rezervasyon oluşturabilirler. Oluşturulan rezervasyonlar anlık olarak admin paneline düşer ve yöneticilere anlık bildirimlerle ulaşır. Admin paneline giriş yaparken güvenlik amacıyla mail ile doğrulama sağlanmıştır.
 
