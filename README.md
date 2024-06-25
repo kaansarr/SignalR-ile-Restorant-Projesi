@@ -15,3 +15,4 @@ Proje üzerinde kullanılan teknolojiler
 📌 Javascript - Ajax
 📌 Asp.Net Core 6.0
 📌 Asp.Net Core Api 
+ 
