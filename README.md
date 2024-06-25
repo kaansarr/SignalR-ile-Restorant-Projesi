@@ -16,3 +16,4 @@ Proje üzerinde kullanılan teknolojiler
 📌 Asp.Net Core 6.0
 📌 Asp.Net Core Api 
  
+ 
