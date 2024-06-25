@@ -27,7 +27,9 @@
 ![KullanıcıGiriş](https://github.com/kaansarr/SignalR-ile-Restorant-Projesi/assets/135230544/05b799b0-3785-43d3-941c-2c6ca9cee46d)
 ![Qr](https://github.com/kaansarr/SignalR-ile-Restorant-Projesi/assets/135230544/910589fd-e6c1-4375-b453-c170ae05a974)
 ![Ürünler](https://github.com/kaansarr/SignalR-ile-Restorant-Projesi/assets/135230544/bcd2b65a-55b3-4af7-a56b-1cd7483bc86a)
-
+<br/>
+<br/>
+<br/>
 
 ## Kullanıcı Tarafı
 
