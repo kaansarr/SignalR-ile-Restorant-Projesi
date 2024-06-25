@@ -1,8 +1,8 @@
-Bu proje, restoranların işleyişini modernleştirmek ve kullanıcı deneyimini optimize etmek için geliştirilmiş bir uygulamadır.
+#Bu proje, restoranların işleyişini modernleştirmek ve kullanıcı deneyimini optimize etmek için geliştirilmiş bir uygulamadır.
 
-📌 Kullanıcılar, masalarındaki QR kodları kullanarak yemek siparişi verebilir ve rezervasyon oluşturabilirler. Oluşturulan rezervasyonlar anlık olarak admin paneline düşer ve yöneticilere anlık bildirimlerle ulaşır. Admin paneline giriş yaparken güvenlik amacıyla mail ile doğrulama sağlanmıştır.
+Kullanıcılar, masalarındaki QR kodları kullanarak yemek siparişi verebilir ve rezervasyon oluşturabilirler. Oluşturulan rezervasyonlar anlık olarak admin paneline düşer ve yöneticilere anlık bildirimlerle ulaşır. Admin paneline giriş yaparken güvenlik amacıyla mail ile doğrulama sağlanmıştır.
 
-Proje üzerinde kullanılan teknolojiler
+#Proje üzerinde kullanılan teknolojiler
 📌 Katmanlı mimari olarak "N-Tier Architecture" kullanılmıştır.
 📌 Tasarım deseni olarak "Repository Design Patern" kullanılmıştır
 📌 Clead Code uymak için "ViewComponents" yapısı kullanılmıştır.
