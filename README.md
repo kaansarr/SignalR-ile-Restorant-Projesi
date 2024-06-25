@@ -1,8 +1,6 @@
-
-
-### 📌 Kullanıcılar, masalarındaki QR kodları kullanarak yemek siparişi verebilir ve rezervasyon oluşturabilirler. Oluşturulan rezervasyonlar anlık olarak admin paneline düşer ve yöneticilere anlık bildirimlerle ulaşır. Admin paneline giriş yaparken güvenlik amacıyla mail ile doğrulama sağlanmıştır.
-
 ## 📌 Bu proje, restoranların işleyişini modernleştirmek ve kullanıcı deneyimini optimize etmek için geliştirilmiş bir uygulamadır.
+
+## 📌 Kullanıcılar, masalarındaki QR kodları kullanarak yemek siparişi verebilir ve rezervasyon oluşturabilirler. Oluşturulan rezervasyonlar anlık olarak admin paneline düşer ve yöneticilere anlık bildirimlerle ulaşır. Admin paneline giriş yaparken güvenlik amacıyla mail ile doğrulama sağlanmıştır.
 
 ## 📌  SignalR kütüphanesi, anlık bildirimler ve sepet gibi işlemler için kapsamlı bir şekilde kullanılmıştır. Restoran sistemine ait bir uygulama olan bu proje, sipariş yönetimini sağlar. Arka planda API kullanılmış olup, API yapısı kullanıcı arayüzü tarafında tüketilmiştir. Rezervasyon işlemleri için kullanıcılara e-posta gönderilmiştir. Anlık bildirimler ve sepet gibi işlemler için SignalR kullanılmıştır. N-tier mimarisi kullanılmıştır.
 
